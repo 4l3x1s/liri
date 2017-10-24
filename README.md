@@ -18,6 +18,7 @@ This will show this username's last 20 tweets and when they were created at in y
 
 #### Spotify
 `node liri.js spotify-this-song <insert song title>`
+
 This will show the following information about the song in your terminal/bash window
 
 - Artist(s)
